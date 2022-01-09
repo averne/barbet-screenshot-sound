@@ -1,5 +1,5 @@
 TARGET := $(notdir $(CURDIR)).zip
-FILES  := META-INF system module.prop
+FILES  := META-INF system module.prop *.sh
 
 .PHONY: all clean
 
