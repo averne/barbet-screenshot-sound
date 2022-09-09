@@ -1,3 +1,3 @@
-##!/system/bin/sh
+#!/sbin/sh
 
 setprop audio.camerasound.force false
